@@ -45,8 +45,8 @@ We also warmly welcome highschool students, university students, researchers, in
 
 - Dr. Abusamra (University Cllege of Applied Sciences)
 - Ms. Aristi (Chiba University)
-- Dr. Khater (Harvard University)
 - Dr. Ghorab (University College of Applied Sciences)
-- Dr. Tang (Simon Fraser University)
 - Ms. Jeon (University of British Columbia)
+- Dr. Khater (Harvard University)
+- Dr. Tang (Simon Fraser University)
 - And other Design4Good members 
