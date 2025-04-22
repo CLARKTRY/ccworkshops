@@ -37,8 +37,8 @@ We also warmly welcome highschool students, university students, researchers, in
   <summary>More details coming soon </summary>
 
   ### Track 1 - Higher education
-  ### Track 2 - Grades 1-12
-   ### Track 2 - Elementary
+  ### Track 2 - Empowering non-adult teachers
+  
 </details>
 
 ## Organizing committee
