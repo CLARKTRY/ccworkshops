@@ -15,3 +15,4 @@ In doing so, we are hosting a series of virtual workshops that will bring togeth
 - [Resources](resources/readme.md)
 - More details to come soon
 
+We welcome your support in any form; please email i.can.design4good _at_ gmail.com
