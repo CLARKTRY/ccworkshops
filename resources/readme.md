@@ -8,13 +8,12 @@
 
 ## Advocacies from Norway
 
+- [Norwegian Refugee Council](https://www.nrc.no/news/2025/march/suspension-of-humanitarian-aid-to-gaza-will-lead-to-more-suffering)
 
-# Photo essays
+# Photos & Footages
 
-- [UNICEF](https://www.unicef.org/sop/stories/renewed-attacks-leave-gazas-children-cascading-crises)
+- [UNICEF's photo essays](https://www.unicef.org/sop/stories/renewed-attacks-leave-gazas-children-cascading-crises)
 
-- [Pre-workshop materials]()
 
-- [Interview]()
-
-- C
+- [BBC](https://www.youtube.com/watch?v=WChPpImsBx0&t=24s) 
+- [Documentary](https://www.youtube.com/watch?v=hqeJqqJOSxk)
