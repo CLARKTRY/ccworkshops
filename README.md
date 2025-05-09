@@ -9,7 +9,9 @@ In doing so, we are hosting a series of virtual workshops that will bring togeth
 
 ## Logistics
 
-- [Registration form for remote participants](https://tinyurl.com/ccw4gaza-survey)
+- [Registration form for local participants](https://tinyurl.com/ccw4gaza-survey)
+- [Registration form for English-speaking participants](https://tinyurl.com/ccw4gaza-survey2)
+- Pre-workshop materials: https://tinyurl.com/ccw4gaza-prep
 - [Resources](resources/readme.md)
 - More details to come soon
 
