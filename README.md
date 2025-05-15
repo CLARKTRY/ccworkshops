@@ -21,11 +21,12 @@ More details to come soon
 
 We warmly welcome any form of support. Please email us at *i.can.design4good _at_ gmail.com*
 
-## Q&A
+## Q & A
 
 <details> 
-<summary>How is this initative different from Workshops4Gaza?</summary>
 
-Gaza is facing a dire shortage of essential items, with food stocks critically low. Despite donations being wired to families in Gaza, they're unable to access these funds to purchase food. We're calling on global advocates to join forces to address this crisis immediately, rather than turning a blind eye to what seems like an insurmountable problem
+<summary>How is this initative different from Workshops4Gaza?</summary>
+<br/>
+Answer: While both initiatives aim to support Gaza, our approach differs from Workshops4Gaza. We're focusing on addressing the critical shortage of essential items, particularly food, and the inability of many families to access donations. Our initiative crowdsources both money *and* expertise to develop practical solutions for children coping with hunger and trauma while learning. Unlike Workshops4Gaza, which organizes workshops and classes to raise money for Palestinians in Gaza, our effort is centered on collaborative problem-solving to tackle the immediate needs of Gaza's children.
 
 </details>
