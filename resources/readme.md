@@ -1,21 +1,19 @@
-# Themes
+# Background
 
-## Education
+## Theme 1: Medical & Survival Skills
+- [What is life like in Gaza? BBC documentary in 2024](https://www.youtube.com/watch?v=WChPpImsBx0&t=24s) 
+- [UNICEF's photo essays](https://www.unicef.org/sop/stories/renewed-attacks-leave-gazas-children-cascading-crises)
+
+## Theme 2: Education
 
 - [Dr. Asmaa's 2024 article](Abusamra2024.pdf)
 
+## Theme 3: Learning with trauma
 
-# Photos & Footages
-
-- [UNICEF's photo essays](https://www.unicef.org/sop/stories/renewed-attacks-leave-gazas-children-cascading-crises)
-
-- [BBC](https://www.youtube.com/watch?v=WChPpImsBx0&t=24s) 
-- [Documentary](https://www.youtube.com/watch?v=hqeJqqJOSxk)
+- [Some accounts of pains of funerals from a documentary of the "11 devasting days" in 2021](https://www.youtube.com/watch?v=hqeJqqJOSxk)
 
 
-<details>
-  
-<summary>Groups</summary> 
+# Groups
 
 ## Advocacies from Canada
 
