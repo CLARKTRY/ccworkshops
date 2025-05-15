@@ -31,7 +31,7 @@ We warmly welcome any form of support. Please email us at *i.can.design4good _at
 
 <br/>
 
-Answer: While both initiatives aim to support Gaza, our approach differs from Workshops4Gaza. We're focusing on addressing the critical shortage of essential items, particularly food, and the inability of many families to access donations. Our initiative crowdsources both money *and* expertise to develop practical solutions for children coping with hunger and trauma while learning. Unlike Workshops4Gaza, which organizes workshops and classes to raise money for Palestinians in Gaza, our effort is centered on collaborative problem-solving to tackle the immediate needs of Gaza's children.
+Answer: While both initiatives aim to support Gaza, our approach differs from [Workshops4Gaza](https://www.workshops4gaza.com/). We're focusing on addressing the critical shortage of essential items, particularly food, and the inability of many families to access donations. Our initiative crowdsources both money *and* expertise to develop practical solutions for children coping with hunger and trauma while learning. Unlike Workshops4Gaza, which organizes workshops and classes to raise money for Palestinians in Gaza, our effort is centered on collaborative problem-solving to tackle the immediate needs of Gaza's children.
 
 </details>
 
