@@ -23,6 +23,8 @@ We warmly welcome any form of support. Please email us at *i.can.design4good _at
 
 ## Q & A
 
+*Click on a question to view its answer*
+
 <details> 
 
 <summary>Q1: How is this initative different from Workshops4Gaza?</summary>
