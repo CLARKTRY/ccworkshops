@@ -7,6 +7,8 @@
 ### Theme 2: Science, social, and language
 
 - [Dr. Asmaa's 2024 article](Abusamra2024.pdf)
+- Al-Mqadma et al. (October 2024). "Resilience in the Rubble – A Needs Assessment of Higher Education in The Gaza Strip" [URL](https://www.swisspeace.ch/assets/publications/Reports/241030_Report_Gaza-Higher-Education-Needs-Assessment_final.pdf)
+
 
 ### Learning with trauma through play
 
@@ -32,6 +34,7 @@
 - [Norwegian Refugee Council](https://www.nrc.no/news/2025/march/suspension-of-humanitarian-aid-to-gaza-will-lead-to-more-suffering)
 - [Norwegian People`s Aid](https://www.npaid.org/where-we-work/palestina)
 
+### Switzerland
 
-
-</details>
+- [Right to education marathon every.org](https://www.every.org/taawon/f/right-to-education-marathon)
+- 
