@@ -52,3 +52,8 @@ Below is a structured strategy to address power imbalances and foster meaningful
 - **Leverage Allies**: Encourage non-Palestinians to amplify Palestinian voices and challenge inequitable dynamics in real time.
 
 By prioritizing safety, equity, and systemic accountability, co-creation sessions can transform power imbalances into opportunities for solidarity and justice.
+
+
+<hr/>
+
+[Home](https://design4good.github.io/ccworkshops/)
