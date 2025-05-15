@@ -40,3 +40,5 @@
 - Faculty from Birzeit University volunteers to teach and co-supervise graduation projects and graduate theses: [link to sign up](https://www.surveymonkey.com/r/BZU-S-GAZA)
 
 
+<hr/>
+[Home](https://design4good.github.io/ccworkshops/)
