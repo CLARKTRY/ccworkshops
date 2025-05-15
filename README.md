@@ -1,6 +1,6 @@
 # Co-Creation Workshops 2025
 
-**Who are we?** 
+**Who are we and what are we doing?** 
 
 Design4Good is a volunteer not-for-profit group dedicated to supporting children in Gaza, led by faculty members from Birzeit University and University College of Applied Sciences, as well as members from Canada, Indonesia, Japan. 
 
