@@ -34,7 +34,9 @@
 - [Norwegian Refugee Council](https://www.nrc.no/news/2025/march/suspension-of-humanitarian-aid-to-gaza-will-lead-to-more-suffering)
 - [Norwegian People`s Aid](https://www.npaid.org/where-we-work/palestina)
 
-### Switzerland
+### Other countries
 
 - [Right to education marathon every.org](https://www.every.org/taawon/f/right-to-education-marathon)
-- 
+- Faculty from Birzeit University volunteers to teach and co-supervise graduation projects and graduate theses: [link to sign up](https://www.surveymonkey.com/r/BZU-S-GAZA)
+
+
