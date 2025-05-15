@@ -42,3 +42,5 @@ Here's a structured analysis:
 ### Conclusion
 While core Islamic and conflict-tested strategies (faith, community solidarity) are applicable, Gaza’s extreme resource limitations and political realities demand urgent adaptation and international advocacy. Success hinges on addressing immediate survival needs while nurturing culturally grounded resilience. Without systemic changes to access and security, even robust strategies will face diminished efficacy.
 
+<hr/>
+[Home](https://design4good.github.io/ccworkshops/)
