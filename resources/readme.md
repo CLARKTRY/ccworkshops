@@ -19,8 +19,8 @@
 #### On strategies
 
 - Ratnasari et al. "Reducing the Inner Child level of College Students via Sufistic Guidance and Counseling with Tadabbur Alam Technique" 2023 [DOI](https://doi.org/10.2991/978-2-38476-152-4_137)
-- ...
-
+   - See notes on [applicability in Gaza](prompts.md)
+    
 ## Advocacy groups supporting humanitarian aid in Gaza
 
 ### Canada
