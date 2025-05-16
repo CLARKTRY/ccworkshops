@@ -1,4 +1,9 @@
-## Problems set 1: Learning
+## Needs assessment 
+
+- [Higher education](https://www.swisspeace.ch/assets/publications/Reports/241030_Report_Gaza-Higher-Education-Needs-Assessment_final.pdf)
+- ...
+
+## Our first target problem set 
 
 ### Theme 1: Medical & Survival Skills
 - [What is life like in Gaza? BBC documentary in 2024](https://www.youtube.com/watch?v=WChPpImsBx0&t=24s) 
