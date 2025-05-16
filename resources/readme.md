@@ -1,7 +1,3 @@
-## Needs assessment 
-
-- [Higher education](https://www.swisspeace.ch/assets/publications/Reports/241030_Report_Gaza-Higher-Education-Needs-Assessment_final.pdf)
-- ...
 
 ## Our first target problem set 
 
@@ -13,7 +9,7 @@
 
 - [Dr. Asmaa's 2024 article](Abusamra2024.pdf)
 - Al-Mqadma et al. (October 2024). "Resilience in the Rubble – A Needs Assessment of Higher Education in The Gaza Strip" [URL](https://www.swisspeace.ch/assets/publications/Reports/241030_Report_Gaza-Higher-Education-Needs-Assessment_final.pdf)
-
+   - Needs assessment
 
 ### Learning with trauma through play
 
