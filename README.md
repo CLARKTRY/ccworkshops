@@ -39,12 +39,9 @@ Answer: While both initiatives aim to support Gaza, our approach differs from [W
 <summary>Q2: What unique value does your initiative bring to supporting Gaza's children, compared to other fundraising or advocacy efforts such as the many GoFundMe campaigns out there?</summary>
 
 <br/>
+
 Answer: We aim to bring a unique value to supporting Gaza's children by focusing on education and psychosocial support, addressing the root causes of their struggles. Unlike traditional fundraising efforts that often focus on immediate relief, we're working to develop sustainable solutions that empower children to cope with trauma and build resilience.
 
-
 Through our co-creation workshops and collaboration with global advocates and experts, we're generating innovative ideas and practical solutions that can be scaled up to make a meaningful impact. By prioritizing the needs and voices of Gaza's children, we're ensuring that our efforts are tailored to their specific context and challenges.
-
-
-Our approach is currently focused on co-creation, collaboration, and long-term impact, rather than immediate relief, setting us apart from other initiatives.
 
 </details>
