@@ -1,5 +1,5 @@
 
-## Our first target problem set 
+## Our first problem set 
 
 ### Theme 1: Medical & Survival Skills
 - [What is life like in Gaza? BBC documentary in 2024](https://www.youtube.com/watch?v=WChPpImsBx0&t=24s) 
@@ -33,7 +33,7 @@
 ### Norway
 
 - [Norwegian Refugee Council](https://www.nrc.no/news/2025/march/suspension-of-humanitarian-aid-to-gaza-will-lead-to-more-suffering)
-- [Norwegian People`s Aid](https://www.npaid.org/where-we-work/palestina)
+- [Norwegian People's Aid](https://www.npaid.org/where-we-work/palestina)
 
 ### Other countries
 
