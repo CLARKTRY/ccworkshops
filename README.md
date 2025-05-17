@@ -15,11 +15,15 @@ In doing so, we are hosting a series of virtual workshops that will bring togeth
 - Registration form for local participants: https://tinyurl.com/ccw4gaza-survey
 - Registration form for remote participants: https://tinyurl.com/join-ccw4gaza
 - Pre-workshop materials: https://tinyurl.com/ccw4gaza-prep
-- [Resources](resources/readme.md)
+- [Code of conduct](admin)
 
-More details to come soon
+## Resources
+
+Please [visit](resources/readme.md)
+
 
 We warmly welcome any form of support. Please email us at *i.can.design4good _at_ gmail.com*
+
 
 ## Q & A
 
