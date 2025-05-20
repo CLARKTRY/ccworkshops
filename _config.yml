@@ -10,7 +10,8 @@ title: Co-creation workshops
 markdown: GFM
 show_downloads: false
 theme: jekyll-theme-midnight 
-
+github:
+  is_project_page: false
 
 # jekyll-theme-minimal     <-- blue
 # jekyll-theme-hacker      <-- black background with typewriter font
