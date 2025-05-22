@@ -52,7 +52,7 @@ Secondly, through our co-creation workshops and collaboration with global advoca
 
 
 <details>
-<summary>Why are you not teaching survival skills?</summary>
+<summary>Q3: Why are you not teaching survival skills?</summary>
 
 Answer: This is currently an ongoing discussion topic. See [details](resources/survival_skills.md)
 </details>
