@@ -44,8 +44,15 @@ Answer: While both initiatives aim to support Gaza, our approach differs from [W
 
 <br/>
 
-Answer: We aim to bring a unique value to supporting Gaza's children by focusing on education and psychosocial support, addressing the root causes of their struggles. Unlike traditional fundraising efforts that often focus on immediate relief, we're working to develop sustainable solutions that empower children to cope with trauma and build resilience.
+Answer: Firstly, we aim to bring a unique value to supporting Gaza's children by focusing on education and psychosocial support, addressing the root causes of their struggles. Unlike traditional fundraising efforts that often focus on immediate relief, we're working to develop sustainable solutions that empower children to cope with trauma and build resilience for use during and after the war.
 
-Through our co-creation workshops and collaboration with global advocates and experts, we're generating innovative ideas and practical solutions that can be scaled up to make a meaningful impact. By prioritizing the needs and voices of Gaza's children, we're ensuring that our efforts are tailored to their specific context and challenges.
+Secondly, through our co-creation workshops and collaboration with global advocates and experts, we're generating innovative ideas and practical solutions that can be scaled up to make a meaningful impact. 
 
+</details>
+
+
+<details>
+<summary>Why are you not teaching survival skills?</summary>
+
+Answer: This is currently an ongoing discussion topic. See [details](resources/survival_skills.md)
 </details>
