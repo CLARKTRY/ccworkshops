@@ -10,9 +10,9 @@ This note examines the debate over integrating survival skills into education fo
 ### Immediate Life-Saving Benefits
 
 - Physical Safety: With 67% of Gaza’s health facilities non-functional (WHO, 2023), teaching first aid, wound care, and emergency evacuation protocols could mitigate preventable deaths. UNICEF’s Education in Emergencies framework highlights such training as critical in conflict zones.
-
-Case Study: In Syria, the NGO called "Save the Children" documented a 30% reduction in preventable child fatalities after introducing trauma-response training (2022 White Paper).
-
+    - Report by *Save the Children*: https://resourcecentre.savethechildren.net/pdf/pfa_2-day_manual_web_enkeltside_0.pdf
+    - [PPT](https://resourcecentre.savethechildren.net/pdf/pfa_ii_slides.pptx)
+      
 - Empowerment and Agency: Children constitute 50% of Gaza’s population (UNICEF), often navigating dangers independently. Survival skills like identifying safe routes or shelters may enhance their agency. UNESCO’s 2023 Global Education Monitoring Report notes that crisis-adapted education can foster resilience.
 
 - International Precedent: The Inter-Agency Network for Education in Emergencies (INEE) endorses integrating safety training into curricula, as seen in South Sudan and Ukraine, where children reported feeling “more prepared” for threats (INEE, 2021).
