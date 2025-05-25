@@ -2,13 +2,12 @@
 
 **Who are we and what are we doing?** 
 
-Design4Good is a volunteer not-for-profit group dedicated to supporting children in Gaza, led by faculty members from [Birzeit University](https://www.birzeit.edu/en/rebuilding-hope) and University College of Applied Sciences, as well as members from Canada, Indonesia, Japan. 
+Design4Good is a volunteer not-for-profit group dedicated to supporting children in Gaza, led by faculty members from [Birzeit University](https://www.birzeit.edu/en/rebuilding-hope) and [University College of Applied Sciences](https://en.ucas.edu.ps/), as well as members from Canada, Indonesia, Japan. 
 
 We are currently focused on education: helping children in Gaza return to learning during these immensely difficult times via new teaching/ learning strategies. 
 
 In doing so, we are hosting a series of virtual workshops that will bring together local Palestinians and advocates from around the world to co-create solutions with prototyping stages embedded into our workshops. 
 
-***Remote participants will participate by donation, with 100% of the funds directly wired to families in Gaza.***
 
 ## Logistics
 
@@ -21,9 +20,11 @@ In doing so, we are hosting a series of virtual workshops that will bring togeth
 
 Please [visit](resources/readme.md)
 
+## Sponsors
 
 We warmly welcome any form of support. Please email us at *i.can.design4good _at_ gmail.com*
 
+<hr/>
 
 ## Q & A
 
