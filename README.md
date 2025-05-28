@@ -1,6 +1,5 @@
 # Co-Creation Workshops 2025
 
-**Who are we and what are we doing?** 
 
 Design4Good is a volunteer not-for-profit group dedicated to supporting children in Gaza, led by faculty members from [Birzeit University](https://www.birzeit.edu/en/rebuilding-hope) and [University College of Applied Sciences](https://en.ucas.edu.ps/), as well as members from Canada, Indonesia, Japan. 
 
@@ -8,6 +7,7 @@ We are currently focused on education: helping children in Gaza return to learni
 
 In doing so, we are hosting a series of virtual workshops that will bring together local Palestinians and advocates from around the world to co-create solutions with prototyping stages embedded into our workshops. 
 
+**Suggestions/ questions?** Please email us at *ccw4gaza _at_ gmail.com* .
 
 ## Logistics
 
@@ -18,11 +18,15 @@ In doing so, we are hosting a series of virtual workshops that will bring togeth
 
 ## Resources
 
-Please [visit](resources/readme.md)
+Please [visit](resources/readme.md).
 
-## Sponsors
+## Soliciting support
 
-We warmly welcome any form of support. Please email us at *ccw4gaza _at_ gmail.com*
+We are completely unfunded and warmly welcome any form of support. 
+
+To cheer on us, please consider to follow us on [Instagram](https://www.instagram.com/sail.initiatives) and [X](https://x.com/ccw4gaza). Thanks very much!
+
+
 
 <hr/>
 
