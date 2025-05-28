@@ -32,7 +32,7 @@ We warmly welcome any form of support. Please email us at *ccw4gaza _at_ gmail.c
 
 <details> 
 
-<summary>Q1: How is this initative different from Workshops4Gaza?</summary>
+<summary>Q1: How is this initiative different from Workshops4Gaza?</summary>
 
 <br/>
 
@@ -60,7 +60,7 @@ Answer: This is currently an ongoing discussion topic. See [details](resources/s
 
 
 <details>
-<summar>Q4: How are you raisng funds and to where?</summar>
+<summar>Q4: How are you raising funds and to where?</summar>
 
 Answer: This is currently an ongoing discussion topic. Please review [Spreadsheet on fundraising activities around the world](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/edit?gid=1457754078#gid=1457754078) and email us your suggestions. 
    
