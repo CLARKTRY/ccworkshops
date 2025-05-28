@@ -22,7 +22,7 @@ Please [visit](resources/readme.md)
 
 ## Sponsors
 
-We warmly welcome any form of support. Please email us at *i.can.design4good _at_ gmail.com*
+We warmly welcome any form of support. Please email us at *ccw4gaza _at_ gmail.com*
 
 <hr/>
 
@@ -56,4 +56,12 @@ Secondly, through our co-creation workshops and collaboration with global advoca
 <summary>Q3: Why are you not teaching survival skills?</summary>
 
 Answer: This is currently an ongoing discussion topic. See [details](resources/survival_skills.md)
+</details>
+
+
+<details>
+<summar>Q4: How are you raisng funds and to where?</summar>
+
+Answer: This is currently an ongoing discussion topic. Please review [Spreadsheet on fundraising activities around the world](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/edit?gid=1457754078#gid=1457754078) and email us your suggestions. 
+   
 </details>
