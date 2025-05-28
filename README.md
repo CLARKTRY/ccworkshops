@@ -11,10 +11,28 @@ In doing so, we are hosting a series of virtual workshops that will bring togeth
 
 ## Logistics
 
-- Registration form for local participants: https://tinyurl.com/ccw4gaza-survey
-- Registration form for remote participants: https://tinyurl.com/join-ccw4gaza
-- Pre-workshop materials: https://tinyurl.com/ccw4gaza-prep
-- [Code of conduct](admin)
+### Surveys
+Please consider completing the surveys below even if you cannot join the workshop to give us feedback. You may skip any questions.
+
+- Survey for those who never lived in Gaza: https://tinyurl.com/ccw4gaza-survey
+- Survey for those who is living or has lived in Gaza: https://tinyurl.com/join-ccw4gaza
+
+### Workshop Agenda
+
+Tentative Schedule: 
+
+| Day | Phase |
+| :-- | :-- |
+| Day 1, SAT | Empathize / Define / Ideate |
+| Day 2, SUN | Ideate / Prototype |
+| Day 3, SAT | Ideate / Prototype |
+| Day 4, SUN | Prototpye / Test / Finalization |
+
+In between Day 2 and Day 3, D4G members will collect feedback from UNRWA staff on the initial prototypes while each Team may continue proposal refinement. 
+
+Pre-workshop materials: https://tinyurl.com/ccw4gaza-prep
+
+[Code of conduct](admin)
 
 ## Resources
 
@@ -25,6 +43,9 @@ Please [visit](resources/readme.md).
 We are completely unfunded and warmly welcome any form of support. 
 
 To cheer on us, please consider following us on [Instagram](https://www.instagram.com/sail.initiatives) and [X](https://x.com/ccw4gaza). Thanks very much!
+
+
+
 
 <hr/>
 
