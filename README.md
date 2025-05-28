@@ -60,7 +60,7 @@ Answer: This is currently an ongoing discussion topic. See [details](resources/s
 
 
 <details>
-<summar>Q4: How are you raising funds and to where?</summar>
+<summar>Q4: How are you raising funds and to where?</summary>
 
 Answer: This is currently an ongoing discussion topic. Please review [Spreadsheet on fundraising activities around the world](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/edit?gid=1457754078#gid=1457754078) and email us your suggestions. 
    
