@@ -19,14 +19,19 @@ Please consider completing the surveys below even if you cannot join the worksho
 
 ### Workshop Agenda
 
-Tentative Schedule: 
+Tentative Schedule: we adopt the 5-stage design thinking process: 
+- Stage 1: Empathize — research your users' needs
+- Stage 2: Define — Clear problem statement defining users' needs and problems
+- Stage 3: Ideate — Challenge assumptions and generate ideas through faciliated interactive sessions with workshop participants
+- Stage 4: Prototype — Create adnd refine proposed solutions
+- Stage 5: Test — Try out proposed solutions 
 
-| Day | Phase |
-| :-- | :-- |
-| Day 1, SAT | Empathize / Define / Ideate |
-| Day 2, SUN | Ideate / Prototype |
-| Day 3, SAT | Ideate / Prototype |
-| Day 4, SUN | Prototpye / Test / Finalization |
+| Week # | Day # | Stage |
+| :-- | :-- | :-- |
+| 1 | Day 1 (SAT) | Empathize / Define / Ideate |
+| 1 | Day 2 (SUN) | Ideate / Prototype |
+| 2 | Day 3 (SAT) | Ideate / Prototype |
+| 2 | Day 4 (SUN) | Prototpye / Test / Finalization |
 
 In between Day 2 and Day 3, D4G members will collect feedback from UNRWA staff on the initial prototypes while each Team may continue proposal refinement. 
 
