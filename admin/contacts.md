@@ -1,3 +1,6 @@
+<details>
+
+<summary>Contacted</summary>
 ```
 bzu.gaza@birzeit.edu, 	
 advancement@birzeit.edu,
@@ -41,6 +44,16 @@ j.touma@unrwa.org,
 itsc@unrwa.org,
 ```
 
+## Unclear
+
+```
+accounts@fmlist.org
+```
+
+</details>
+
+# Misc. notes
+
 - [2025 April Hardships explained for UBC](https://www.ckom.com/2025/04/07/ubc-professors-taking-school-to-court-over-political-actions-by-administration/)
 
 - [UBC C&W](http://www.phsa.ca/researcher/Documents/CW%20REB%20-%20AI%20Research%20Ethics%20Application%20Checklist%20v1.3.pdf)
@@ -59,11 +72,7 @@ itsc@unrwa.org,
   - [Indonesia](https://www.google.com/search?q=how+to+register+as+ngo+indonesia&sca_esv=b2e5f7f6770a8207&sxsrf=AE3TifMJ1u_7vejBVPCok2pWm3mp9kQ4iA%3A1748645163830&ei=KzU6aJq7MsjJ0PEPu_Ok2QM&ved=0ahUKEwja_M_uosyNAxXIJDQIHbs5KTsQ4dUDCBA&uact=5&oq=how+to+register+as+ngo+indonesia&gs_lp=Egxnd3Mtd2l6LXNlcnAiIGhvdyB0byByZWdpc3RlciBhcyBuZ28gaW5kb25lc2lhMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRifBUjMH1DGD1j9HXAFeAGQAQCYAYgBoAGJCaoBAzUuNrgBA8gBAPgBAZgCEKACxwnCAgoQABiwAxjWBBhHwgIEECMYJ8ICBhAAGBYYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgUQABiABMICCBAAGKIEGIkFwgIEECEYFcICBxAhGKABGAqYAwCIBgGQBgiSBwM4LjigB7tFsgcDMy44uAeyCcIHBTAuNy45yAcy&sclient=gws-wiz-serp)
 - 2025 July 15 https://aij.ijcai.org/wp-content/uploads/2025/05/AIJ32-call.pdf
   - In 2025 spring, we tried; 29 out of 106 applications got funded
-
-
   
 </details>
 
-```
-accounts@fmlist.org
-```
+
