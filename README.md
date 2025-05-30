@@ -8,11 +8,11 @@ We are currently focused on education: helping children in Gaza return to learni
 In doing so, we are hosting a series of virtual workshops that will bring together local Palestinians and advocates from around the world to co-create solutions with prototyping stages embedded into our workshops. 
 
 More precisely, we adopt the 5-stage design thinking process: 
-- Stage 1: **Empathize** — research your users' needs
-- Stage 2: **Define** — Clear problem statement defining users' needs and problems
-- Stage 3: **Ideate** — Challenge assumptions and generate ideas through faciliated interactive sessions with workshop participants
-- Stage 4: **Prototype** — Create adnd refine proposed solutions
-- Stage 5: **Test** — Try out proposed solutions
+- Stage 1: **Empathize** and research your users' needs
+- Stage 2: **Define** clear problem statement defining users' needs and problems
+- Stage 3: **Ideate** by challenging assumptions and generating ideas through faciliated interactive sessions with other workshop participants
+- Stage 4: **Prototype** to create and refine proposed solutions
+- Stage 5: **Test** to try out proposed solutions
  
 **Suggestions/ questions?** Please email us at *ccw4gaza _at_ gmail.com* .
 
@@ -28,7 +28,7 @@ Please consider completing the surveys below even if you cannot join the worksho
 
 Tentative Schedule: 
 
-| Week # | Day # | Stage |
+| Week # | Day # | Stages |
 | :-- | :-- | :-- |
 | 1 | Day 1 (SAT) | Empathize / Define / Ideate |
 | 1 | Day 2 (SUN) | Refine defintion / Ideate / Prototype |
