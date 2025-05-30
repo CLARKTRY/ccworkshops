@@ -1,9 +1,9 @@
 ## Lesson Plan: Resilience & Storytelling - Managing a Class of 100 in a Gaza Refugee Camp (Conflict Times)
 
-**Target Audience:** Teachers working with a class of approximately 100 students in a Gaza refugee camp during active conflict. (Adjustable based on age range - this plan leans towards late elementary/early middle school, 10-14 years old, but with adaptations it can be modified.  Explicitly acknowledging the range is vital.)
-**Context:**  Students are likely experiencing trauma, displacement, loss, and ongoing fear. Safety and emotional well-being are paramount.  Resources are scarce, and the learning environment is likely unstable (e.g., tents, crowded spaces, limited materials).  Regular schooling is disrupted.  This lesson prioritizes psychosocial support interwoven with simple educational activities.
-**Lesson Duration:** 60-90 minutes (can be broken into shorter segments)
-**Overall Goal:** To provide a safe space for students to express their experiences and emotions, foster a sense of community and resilience, and offer a brief respite from the realities of conflict.
+- **Target Audience:** Teachers working with a class of approximately 100 students in a Gaza refugee camp during active conflict. (Adjustable based on age range - this plan leans towards late elementary/early middle school, 10-14 years old, but with adaptations it can be modified.  Explicitly acknowledging the range is vital.)
+- **Context:**  Students are likely experiencing trauma, displacement, loss, and ongoing fear. Safety and emotional well-being are paramount.  Resources are scarce, and the learning environment is likely unstable (e.g., tents, crowded spaces, limited materials).  Regular schooling is disrupted.  This lesson prioritizes psychosocial support interwoven with simple educational activities.
+- **Lesson Duration:** 60-90 minutes (can be broken into shorter segments)
+- **Overall Goal:** To provide a safe space for students to express their experiences and emotions, foster a sense of community and resilience, and offer a brief respite from the realities of conflict.
 
 **I. Core Principles & Teacher Considerations (Before the Lesson):**
 
