@@ -1,11 +1,11 @@
-## Lesson Plan: Resilience & Storytelling - Managing a Class of 100 in a Gaza Refugee Camp (Conflict Times)
+# Lesson Plan: Resilience & Storytelling - Managing a Class of 100 in a Gaza Refugee Camp (Conflict Times)
 
 - **Target Audience:** Teachers working with a class of approximately 100 students in a Gaza refugee camp during active conflict. (Adjustable based on age range - this plan leans towards late elementary/early middle school, 10-14 years old, but with adaptations it can be modified.  Explicitly acknowledging the range is vital.)
 - **Context:**  Students are likely experiencing trauma, displacement, loss, and ongoing fear. Safety and emotional well-being are paramount.  Resources are scarce, and the learning environment is likely unstable (e.g., tents, crowded spaces, limited materials).  Regular schooling is disrupted.  This lesson prioritizes psychosocial support interwoven with simple educational activities.
 - **Lesson Duration:** 60-90 minutes (can be broken into shorter segments)
 - **Overall Goal:** To provide a safe space for students to express their experiences and emotions, foster a sense of community and resilience, and offer a brief respite from the realities of conflict.
 
-**I. Core Principles & Teacher Considerations (Before the Lesson):**
+## I. Core Principles & Teacher Considerations (Before the Lesson)
 
 * **Safety First:**  Prioritize physical and emotional safety. Be aware of potential triggers (sounds, images, topics). Have a pre-determined signal for stopping the activity if students become overwhelmed.
 * **Trauma-Informed Approach:**  Do *not* force sharing. Allow students to participate only if they feel comfortable.  Validate their feelings; avoid minimizing or dismissing their experiences.  Focus on strengths and coping mechanisms.
@@ -17,7 +17,7 @@
 
 
 
-**II. Lesson Components:**
+## II. Lesson Components
 
 **Phase 1: Check-In & Safe Space Creation (10-15 minutes)**
 
@@ -65,7 +65,7 @@
 
 
 
-**III.  Important Adaptations & Considerations:**
+## III.  Important Adaptations & Considerations
 
 * **Age Range:**  Younger students might need simpler prompts and more visual aids. Older students can engage in more reflective discussions.
 * **Trauma Triggers:** Be prepared to stop the activity if students become overwhelmed. Have a quiet space available for students who need a break.
@@ -80,7 +80,7 @@
 * Charcoal, sticks, sand (if available)
 * Stones
 * Facilitators/teachers who are trained in trauma-informed care.
-*  A quiet space for students who need a break.
+* A quiet space for students who need a break.
 
 
 
