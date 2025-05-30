@@ -1,6 +1,7 @@
 <details>
 
 <summary>Contacted</summary>
+
 ```
 bzu.gaza@birzeit.edu, 	
 advancement@birzeit.edu,
