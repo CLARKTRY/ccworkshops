@@ -45,6 +45,19 @@ itsc@unrwa.org,
 
 - [UBC C&W](http://www.phsa.ca/researcher/Documents/CW%20REB%20-%20AI%20Research%20Ethics%20Application%20Checklist%20v1.3.pdf)
 
+<details>
+
+<summary>Funding</summary>
+
+- 2025 July https://thejerusalemfund.org/what-we-do/grants/application/
+  - [Register as new?? Notes from Canada ](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/registering-charitable-qualified-donee-status/apply-become-registered-charity.html)
+
+- 2025 July 15 https://aij.ijcai.org/wp-content/uploads/2025/05/AIJ32-call.pdf
+  - In 2025 spring, we tried; 29 out of 106 applications got funded
+
+
+  
+</details>
 
 ```
 accounts@fmlist.org
