@@ -86,3 +86,7 @@
 
 
 **Disclaimer:** This lesson plan is designed for a specific context and should be adapted based on the needs of the students and the resources available. It is important to consult with experts in trauma-informed care and local communities to ensure that the lesson is culturally appropriate and effective.
+
+<hr/>
+
+[Home](https://design4good.github.io/ccworkshops/)
