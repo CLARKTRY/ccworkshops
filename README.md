@@ -30,6 +30,7 @@ Tentative Schedule:
 
 | Week # | Day # | Stages |
 | :-- | :-- | :-- |
+| 0 | - |  Pre-workshop materials: https://tinyurl.com/ccw4gaza-prep |
 | 1 | Day 1 (SAT) | Empathize / Define / Ideate |
 | 1 | Day 2 (SUN) | Refine defintion / Ideate / Prototype |
 | 2 | Day 3 (SAT) | Refine/ Ideate / Prototype |
@@ -37,7 +38,7 @@ Tentative Schedule:
 
 In between Day 2 and Day 3, D4G members will collect feedback from UNRWA staff on the initial prototypes while each Team may continue proposal refinement. 
 
-Pre-workshop materials: https://tinyurl.com/ccw4gaza-prep
+
 
 [Code of conduct](admin)
 
