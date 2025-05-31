@@ -66,12 +66,12 @@ To cheer on us, please consider following us on [Instagram](https://www.instagra
 
 <br/>
 
-Answer: While both initiatives aim to support Gaza, our approach differs from [Workshops4Gaza](https://www.workshops4gaza.com/). We're focusing on addressing the critical shortage of essential items, particularly food, and the inability of many families to access donations. Our initiative crowdsources both money *and* expertise to develop practical solutions for children coping with hunger and trauma while learning. Unlike Workshops4Gaza, which organizes workshops and classes to raise money for Palestinians in Gaza, our effort is centered on collaborative problem-solving to tackle the immediate needs of Gaza's children.
+Answer: While both initiatives aim to support Gaza, our approach differs from [Workshops4Gaza](https://www.workshops4gaza.com/). We're focusing on crowdsourcing expertise to develop practical solutions for children coping with hunger and trauma while learning. Unlike Workshops4Gaza, which organizes workshops and classes to raise money for Palestinians in Gaza, our effort is centered on collaborative problem-solving to tackle the immediate needs of Gaza's children.
 
 </details>
 
 <details>
-<summary>Q2: What unique value does your initiative bring to supporting Gaza's children, compared to other fundraising or advocacy efforts such as the many GoFundMe campaigns out there?</summary>
+<summary>Q2: What unique value does your initiative bring to supporting Gaza's children, compared to other advocacy efforts such as the many GoFundMe campaigns out there?</summary>
 
 <br/>
 
@@ -92,6 +92,8 @@ Answer: This is currently an ongoing discussion topic. See [details](resources/s
 <details>
 <summary>Q4: How are you raising funds and to where?</summary>
 
-Answer: This is currently an ongoing discussion topic. Please review [Spreadsheet on fundraising activities around the world](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/edit?gid=1457754078#gid=1457754078) and email us your suggestions. 
+Answer: We are not a registered charity nor registered NGO, so we are not eligible to apply to a majority of grants. 
+
+That said, we'd love to get your input on this question in preparation of the future. Please review [Spreadsheet on fundraising activities around the world](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/edit?gid=1457754078#gid=1457754078) and email us your suggestions. 
    
 </details>
