@@ -1,3 +1,13 @@
+
+## Misc. notes
+
+- [2025 April Hardships explained for UBC](https://www.ckom.com/2025/04/07/ubc-professors-taking-school-to-court-over-political-actions-by-administration/)
+
+- [UBC C&W](http://www.phsa.ca/researcher/Documents/CW%20REB%20-%20AI%20Research%20Ethics%20Application%20Checklist%20v1.3.pdf)
+
+
+## Recruitment 
+
 <details>
 
 <summary>Contacted</summary>
@@ -52,12 +62,6 @@ accounts@fmlist.org
 ```
 
 </details>
-
-# Misc. notes
-
-- [2025 April Hardships explained for UBC](https://www.ckom.com/2025/04/07/ubc-professors-taking-school-to-court-over-political-actions-by-administration/)
-
-- [UBC C&W](http://www.phsa.ca/researcher/Documents/CW%20REB%20-%20AI%20Research%20Ethics%20Application%20Checklist%20v1.3.pdf)
 
 <details>
 
