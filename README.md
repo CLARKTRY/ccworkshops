@@ -30,7 +30,7 @@ Tentative Schedule:
 
 | Week # | Day # | Stages |
 | :-- | :-- | :-- |
-| 0 | - |  Please review of <br>1) [Code of Conduct (CoC)](admin) <br>2) Pre-workshop materials: https://tinyurl.com/ccw4gaza-prep |
+| 0 | - |  Please review: <br>1) [Code of Conduct (CoC)](admin) <br>2) Pre-workshop materials: https://tinyurl.com/ccw4gaza-prep |
 | 1 | Day 1 (SAT) | Review CoC / Empathize / Define / Ideate |
 | 1 | Day 2 (SUN) | Refine defintion / Ideate / Prototype |
 | 2 | Day 3 (SAT) | Refine/ Ideate / Prototype |
