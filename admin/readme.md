@@ -37,4 +37,4 @@ The following actions will not be tolerated:
 
 ## Accountability and Reporting
 
-If you witness or experience any violation of these values, please reach out directly to the organizers at ccw4gaza <at> gmail.com. All reports will be kept confidential and taken seriously.
+If you witness or experience any violation of these values, please reach out directly to the organizers at ccw4gaza at gmail.com. All reports will be kept confidential and taken seriously.
