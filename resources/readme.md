@@ -1,9 +1,24 @@
 
-## Our first problem set 
+
+<details>
+   
+<summary>Ideas explored</summary>
+
+- https://tinyurl.com/prompts4gaza
+- [Islamic for Gaza?](islamic4gaza)
+- [Notes and example on planning a lesson plan](lesson_gemma3)
+
+</details> 
+
+
+<details>
+   
+<summary>Our first problem set </summary>
 
 ### Theme 1: Medical & Survival Skills
 - [What is life like in Gaza? BBC documentary in 2024](https://www.youtube.com/watch?v=WChPpImsBx0&t=24s) 
 - [UNICEF's photo essays](https://www.unicef.org/sop/stories/renewed-attacks-leave-gazas-children-cascading-crises)
+- Debate: [Teaching survival skills or not](survival_skills.md)
 
 ### Theme 2: Science, social, and language
 
@@ -21,8 +36,24 @@
 
 - Ratnasari et al. "Reducing the Inner Child level of College Students via Sufistic Guidance and Counseling with Tadabbur Alam Technique" 2023 [DOI](https://doi.org/10.2991/978-2-38476-152-4_137)
    - See notes on [applicability in Gaza](prompts.md)
-    
-## Advocacy groups supporting humanitarian aid in Gaza
+
+</details> 
+
+
+<details> 
+
+<summary>Facilitation</summary>
+
+- [Facilitation notes](facilitation_notes.md)
+- ...
+</details> 
+
+
+   
+<details> 
+
+<summary>Advocacy groups supporting humanitarian aid in Gaza</summary>
+   
 
 ### Canada
 
@@ -39,6 +70,8 @@
 
 - [Right to education marathon every.org](https://www.every.org/taawon/f/right-to-education-marathon)
 - Faculty from Birzeit University volunteers to teach and co-supervise graduation projects and graduate theses: [link to sign up](https://www.surveymonkey.com/r/BZU-S-GAZA)
+
+</details> 
 
 
 <hr/>
