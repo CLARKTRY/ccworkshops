@@ -1,6 +1,4 @@
-
-
-# Resources for cocreators
+# Targets
 
 | Mode | Self-learning | Paired-learning |  Group-learning | Classroom learning | 
 | :-- | :-- | :-- | :-- | :-- | 
@@ -10,6 +8,10 @@
 
 - Video clips
 - Visual summary on a PDF handout accessible on small-screen mobile/ eSIM
+- ...
+
+# Resources for cocreators
+
 
 <details> 
 
