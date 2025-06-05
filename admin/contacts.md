@@ -11,6 +11,22 @@
 <details>
 
 <summary>Contacted</summary>
+```
+H.KANASH@unrwa.org, 
+k.jabr@unrwa.org,
+i.hamdan@unrwa.org,
+K.PAJCIN@unrwa.org, 
+S.PETRUZZELLA@unrwa.org, 
+U.SACONA@unrwa.org, 
+A.SEBIHI@unrwa.org,
+F.ElSaloul@unrwa.org,
+M.SHALTOOT@unrwa.org,
+f.dabit@unrwa.org, 
+a.ismail@unrwa.org,
+a.thabet@unrwa.org, 
+s.emam@unrwa.org  
+unrwacairooffice@unrwa.org
+```
 
 ```
 bzu.gaza@birzeit.edu, 	
