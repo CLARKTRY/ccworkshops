@@ -2,9 +2,11 @@
 
 # Resources for cocreators
 
-| Self-learning | Paired-learning |  Group-learning |
-| :-- | :-- | :-- |
-| | | |
+| Mode | Self-learning | Paired-learning |  Group-learning |
+| :-- | :-- | :-- | :-- |
+| Radio / audio-based | | | |
+| Video / e-SIIM | | |
+| Oral | |||
 
 - Video clips
 - Visual summary on a PDF handout accessible on small-screen mobile/ eSIM
