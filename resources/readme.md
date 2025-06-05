@@ -6,7 +6,7 @@
 | :-- | :-- | :-- | :-- |
 | Radio / audio-based | | | |
 | Video / e-SIIM | | |
-| Oral | |||
+| Spoken/ story-telling | | | |
 
 - Video clips
 - Visual summary on a PDF handout accessible on small-screen mobile/ eSIM
