@@ -1,14 +1,32 @@
 
 
-<details>
-   
-<summary>Ideas explored</summary>
+# Resources for cocreators
 
-- https://tinyurl.com/prompts4gaza
-- [Islamic for Gaza?](islamic4gaza)
-- [Notes and example on planning a lesson plan](lesson_gemma3)
+
+<details> 
+
+<summary>Videos</summary>
+
+## Local intelligence
+
+- https://www.instagram.com/reel/DKcyUJVsHUV/?igsh=MTNpbmpqOGJxa2hreg==
+
+## Dr. Rosie, British Plastic Surgeon
+
+- https://www.instagram.com/reel/DKfgvB1tv9w/?igsh=MWY1bTUzdXFvMmg1YQ==
+
+## Educational?
+
+- https://www.instagram.com/reel/DKcpZy2sFwM/?igsh=dW95YXF2a3J1NDAw 
+
+
+## Difficult to watch
+
+- https://www.instagram.com/reel/DKZ9Or0AAvM/?igsh=N3Rhc250N2RudWp3
 
 </details> 
+
+
 
 
 <details>
@@ -40,16 +58,27 @@
 </details> 
 
 
-<details> 
 
-<summary>Facilitation</summary>
+<details>
+   
+<summary>Ideas explored</summary>
 
-- [Facilitation notes](facilitation_notes.md)
-- ...
+- https://tinyurl.com/prompts4gaza
+- [Islamic for Gaza?](islamic4gaza)
+- [Notes and example on planning a lesson plan](lesson_gemma3)
+
 </details> 
 
 
-   
+
+# Resources for facilitators
+
+- [Facilitation notes](facilitation_notes.md)
+
+
+
+# Resources for post-workshop
+
 <details> 
 
 <summary>Advocacy groups supporting humanitarian aid in Gaza</summary>
