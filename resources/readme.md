@@ -2,6 +2,12 @@
 
 # Resources for cocreators
 
+| Self-learning | Paired-learning |  Group-learning |
+| :-- | :-- | :-- |
+| | | |
+
+- Video clips
+- Visual summary on a PDF handout accessible on small-screen mobile/ eSIM
 
 <details> 
 
