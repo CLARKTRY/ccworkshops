@@ -34,9 +34,9 @@ Tentative Schedule:
 | 1 | Day 1 (SAT) | Review Code of Conduct / Empathize / Define / Ideate |
 | 1 | Day 2 (SUN) | Refine defintion / Ideate / Prototype |
 | 2 | Day 3 (SAT) | Refine/ Ideate / Prototype |
-| 2 | Day 4 (SUN) | Prototpye / Test / Finalization |
+| 2 | Day 4 (SUN) | Prototype / Test / Finalization |
 
-In between Day 2 and Day 3, D4G members will collect feedback from UNRWA staff on the initial prototypes while each Team may continue proposal refinement. 
+In between Day 2 and Day 3, D4G members will collect feedback from Palestinians on the initial prototypes while each Team may continue proposal refinement. 
 
 
 
