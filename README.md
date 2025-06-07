@@ -1,11 +1,11 @@
-# Co-Creation Workshops 2025
+# SAIL Initiatives: Co-Creation Workshops 2025
 
 
 Design4Good is a volunteer not-for-profit group dedicated to supporting children in Gaza, led by faculty members from [Birzeit University](https://www.birzeit.edu/en/rebuilding-hope) and [University College of Applied Sciences](https://en.ucas.edu.ps/), as well as members from Canada, Indonesia, Japan, and Norway. 
 
 We are currently focused on education: helping children in Gaza return to learning during these immensely difficult times via new teaching/ learning strategies. 
 
-In doing so, we are hosting a series of virtual workshops that will bring together local Palestinians and advocates from around the world to co-create solutions with prototyping stages embedded into our workshops. 
+In doing so, we embarking on the SAIL Initiatives: a series of virtual workshops that will bring together local Palestinians and advocates from around the world to co-create solutions. 
 
 We are adopting the 5-stage design thinking process: 
 - Stage 1: **Empathize** and research your users' needs
