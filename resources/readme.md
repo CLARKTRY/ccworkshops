@@ -14,17 +14,30 @@
 
   > Some people use networks from home routers placed in the streets to provide paid Wi-Fi access, you can say this is 95% of internet in Gaza. Even then, the connection is very weak and unstable — usually around 1 Mbps or less.. The remaining 5% go to places with slightly better connections (maybe up to 10 Mbps), but it's more expensive.
 
-## Resources for cocreators
- 
+<br/>
 
+## Resources for cocreators
+
+### Latest updates
+
+- [Footage of a classroom](https://www.youtube.com/shorts/-Brmg5Sa9QY)
+- https://www.youtube.com/embed/o-h1r3wsWY8?si=trJCdc99JXRvTWwt&amp;start=8" | https://youtu.be/o-h1r3wsWY8?si=ocb_n3FZRUAW5eUi
+- On mental state:  https://www.youtube.com/watch?v=LV6Jo5V_DPU
+- Recent narrations on (dire) medical situation
+  - Dr. Rosie, British Plastic Surgeon
+    - https://www.instagram.com/reel/DKfgvB1tv9w/?igsh=MWY1bTUzdXFvMmg1YQ==
+    - https://www.youtube.com/watch?v=dyZlKwYanvo
+    - https://www.youtube.com/watch?v=Ewx9Qkpv86I
+  - Dr. Tanya Haj Hassan: https://www.youtube.com/watch?v=d5yFJ1CjZYE
+- Misc:
+  - https://www.youtube.com/watch?v=sDwd4cSMiTA
+  - https://www.youtube.com/watch?v=0u1DxnqDRhg
+    
 ### Local intelligence
 
 - https://www.instagram.com/reel/DKcyUJVsHUV/?igsh=MTNpbmpqOGJxa2hreg==
 
-### Dr. Rosie, British Plastic Surgeon
-
-- https://www.instagram.com/reel/DKfgvB1tv9w/?igsh=MWY1bTUzdXFvMmg1YQ==
-
+ 
 ### Educational
 
 - https://www.instagram.com/reel/DKcpZy2sFwM/?igsh=dW95YXF2a3J1NDAw 
@@ -33,7 +46,8 @@
 ### Difficult to watch
 
 - https://www.instagram.com/reel/DKZ9Or0AAvM/?igsh=N3Rhc250N2RudWp3
- 
+
+
 
 
 
@@ -78,7 +92,7 @@
 
 </details> 
 
-
+<br/>
 
 ## Resources for facilitators
 
