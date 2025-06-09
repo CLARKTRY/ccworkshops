@@ -1,6 +1,6 @@
 # Resources
 
-## Brainstorming of delivery formats 
+## Brainstorming on delivery formats 
 
 | Mode | Self-learning | Paired-learning |  Group-learning | Classroom learning | 
 | :-- | :-- | :-- | :-- | :-- | 
@@ -14,8 +14,7 @@
 - Share in a way so the instructions could be sent using low bandwidth:
 
   > Some people use networks from home routers placed in the streets to provide paid Wi-Fi access, you can say this is 95% of internet in Gaza. Even then, the connection is very weak and unstable — usually around 1 Mbps or less.. The remaining 5% go to places with slightly better connections (maybe up to 10 Mbps), but it's more expensive.
-
-Source: EK (June 6, 2025)
+  - Source: EK (June 6, 2025)
 
 <br/>
 
