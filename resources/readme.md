@@ -5,6 +5,7 @@
 | Mode | Self-learning | Paired-learning |  Group-learning | Classroom learning | 
 | :-- | :-- | :-- | :-- | :-- | 
 | Spoken/ story-telling | | | | |
+| Simple graphic] | [charting the daily emotions](https://www.instagram.com/p/DAa9sB8yboM/?igsh=MWR2azRodzRkZGFuaA%3D%3D) |
 | [Radio](https://www.instagram.com/p/DBeDfjDoZM5/) / audio-based | | | | |
 | Short video shared on WhatsApp | | | |
 | YouTube Channels | | | |
@@ -13,7 +14,8 @@
 - Share in a way so the instructions could be sent using low bandwidth:
 
   > Some people use networks from home routers placed in the streets to provide paid Wi-Fi access, you can say this is 95% of internet in Gaza. Even then, the connection is very weak and unstable — usually around 1 Mbps or less.. The remaining 5% go to places with slightly better connections (maybe up to 10 Mbps), but it's more expensive.
- Source: EK (June 6, 2025)
+
+Source: EK (June 6, 2025)
 
 <br/>
 
@@ -34,19 +36,20 @@
 - KOLs:
   - [Simple constructions](https://www.instagram.com/reel/DKcpZy2sFwM/?igsh=dW95YXF2a3J1NDAw)
 - Misc:
-  - https://www.youtube.com/watch?v=sDwd4cSMiTA
-  - https://www.youtube.com/watch?v=0u1DxnqDRhg
-
-
-### Local intelligence
-
-- https://www.instagram.com/reel/DKcyUJVsHUV/?igsh=MTNpbmpqOGJxa2hreg==
-
+  - [Palestinian medical doctors & patients struggling in Israel too](https://www.youtube.com/watch?v=sDwd4cSMiTA)
  
+
+### Local intelligence/ resilience 
+
+- [Electricity from a recycled bike](https://www.instagram.com/reel/DKcyUJVsHUV/?igsh=MTNpbmpqOGJxa2hreg==)
+- [Tent to a workshop](https://www.youtube.com/shorts/7awCpBeYRRc)
+- [Clothing workshop from rubble to provide jobs, July 2024](https://www.youtube.com/watch?v=1t4vikGRcUk)
+- ...
+
 ### Educational
 
 - [Curriculum used by UNRWA before Oct 2023](https://keeplearning.unrwa.org/en/gaza/)
-
+- [Large group of children presenting orally outdoor with guidance, June 2025](https://www.instagram.com/reel/DKdH9s9NHSr/?igsh=MW5sMDFrYXEwM2x1cg%3D%3D)
 
 ### Difficult to watch
 
@@ -129,6 +132,10 @@
 
 - [Norwegian Refugee Council](https://www.nrc.no/news/2025/march/suspension-of-humanitarian-aid-to-gaza-will-lead-to-more-suffering)
 - [Norwegian People's Aid](https://www.npaid.org/where-we-work/palestina)
+
+### Japan
+
+- [古澤裕介（yusuke Furusawa）](https://www.instagram.com/furusawayusuke_?igsh=MTc5Ymd1ajdzaTJlNg%3D%3D)
 
 ### Other countries
 
