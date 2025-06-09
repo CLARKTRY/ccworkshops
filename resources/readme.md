@@ -13,6 +13,7 @@
 - Share in a way so the instructions could be sent using low bandwidth:
 
   > Some people use networks from home routers placed in the streets to provide paid Wi-Fi access, you can say this is 95% of internet in Gaza. Even then, the connection is very weak and unstable — usually around 1 Mbps or less.. The remaining 5% go to places with slightly better connections (maybe up to 10 Mbps), but it's more expensive.
+ Source: EK (June 6, 2025)
 
 <br/>
 
@@ -21,19 +22,22 @@
 ### Latest updates
 
 - [Footage of a classroom](https://www.youtube.com/shorts/-Brmg5Sa9QY)
-- [Eid al-Adha holiday Jun 5-9](https://www.youtube.com/embed/o-h1r3wsWY8?si=trJCdc99JXRvTWwt&amp;start=8") | https://youtu.be/o-h1r3wsWY8?si=ocb_n3FZRUAW5eUi
+- [Eid al-Adha holiday Jun 5-9, 2025](https://www.youtube.com/embed/o-h1r3wsWY8?si=trJCdc99JXRvTWwt&amp;start=8") | https://youtu.be/o-h1r3wsWY8?si=ocb_n3FZRUAW5eUi
 - [On mental state](https://www.youtube.com/watch?v=LV6Jo5V_DPU)
 - Recent narrations on (dire) medical situation:
   - Dr. Rosie, British Plastic Surgeon
     > My anaesthetist Dr Nizar was evacuated from his home in Khan Younis and had to walk 22km to pitch a tent for his wife and 5 children in an area of “safety”.
     - Quote from interview on [June 4](https://www.instagram.com/reel/DKfgvB1tv9w/?igsh=MWY1bTUzdXFvMmg1YQ==)
-    - [June 7](https://www.youtube.com/watch?v=dyZlKwYanvo)
-    - [June 7](https://www.youtube.com/watch?v=Ewx9Qkpv86I)
+    - [June 7, 2025](https://www.youtube.com/watch?v=dyZlKwYanvo)
+    - [June 7, 2025](https://www.youtube.com/watch?v=Ewx9Qkpv86I)
   - Dr. Tanya Haj Hassan: https://www.youtube.com/watch?v=d5yFJ1CjZYE
+- KOLs:
+  - [Simple constructions](https://www.instagram.com/reel/DKcpZy2sFwM/?igsh=dW95YXF2a3J1NDAw)
 - Misc:
   - https://www.youtube.com/watch?v=sDwd4cSMiTA
   - https://www.youtube.com/watch?v=0u1DxnqDRhg
-    
+
+
 ### Local intelligence
 
 - https://www.instagram.com/reel/DKcyUJVsHUV/?igsh=MTNpbmpqOGJxa2hreg==
@@ -41,7 +45,7 @@
  
 ### Educational
 
-- https://www.instagram.com/reel/DKcpZy2sFwM/?igsh=dW95YXF2a3J1NDAw 
+- [Curriculum used by UNRWA before Oct 2023](https://keeplearning.unrwa.org/en/gaza/)
 
 
 ### Difficult to watch
@@ -85,7 +89,7 @@
 
 <details>
    
-<summary>Ideas previously explored (click to expand)</summary>
+<summary>- Ideas previously explored (click to expand)</summary>
 
 - https://tinyurl.com/prompts4gaza
 - [Islamic for Gaza?](islamic4gaza)
@@ -103,9 +107,16 @@
 
 ## Resources to revisit after the workshop
 
+<details>
+  <summary>- Hollywood (click to expand) </summary>
+
+- [Reddit discussion in April 2025](https://www.reddit.com/r/Broadway/comments/1jrwqfo/have_any_broadway_figures_been_openly_supportive/)
+- ...
+</details>
+
 <details> 
 
-<summary>Advocacy groups supporting humanitarian aid in Gaza</summary>
+<summary>- Advocacy groups supporting humanitarian aid in Gaza (click to expand)</summary>
    
 
 ### Canada
