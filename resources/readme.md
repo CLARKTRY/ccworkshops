@@ -1,6 +1,6 @@
 # Resources
 
-## Delivery formats: not exhaustive
+## Brainstorming of delivery formats 
 
 | Mode | Self-learning | Paired-learning |  Group-learning | Classroom learning | 
 | :-- | :-- | :-- | :-- | :-- | 
