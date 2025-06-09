@@ -1,47 +1,46 @@
-# Targets
+# Resources
+
+## Delivery formats: not exhaustive
 
 | Mode | Self-learning | Paired-learning |  Group-learning | Classroom learning | 
 | :-- | :-- | :-- | :-- | :-- | 
-| [Radio](https://www.instagram.com/p/DBeDfjDoZM5/) / audio-based | | | | |
-| Video / e-SIIM | | | |
 | Spoken/ story-telling | | | | |
+| [Radio](https://www.instagram.com/p/DBeDfjDoZM5/) / audio-based | | | | |
+| Short video shared on WhatsApp | | | |
+| YouTube Channels | | | |
 
 - Video clips
-- Visual summary on a PDF handout accessible on small-screen mobile/ eSIM
-- ...
+- Share in a way so the instructions could be sent using low bandwidth:
 
-# Resources for cocreators
+  > Some people use networks from home routers placed in the streets to provide paid Wi-Fi access, you can say this is 95% of internet in Gaza. Even then, the connection is very weak and unstable — usually around 1 Mbps or less.. The remaining 5% go to places with slightly better connections (maybe up to 10 Mbps), but it's more expensive.
 
+## Resources for cocreators
+ 
 
-<details> 
-
-<summary>Videos</summary>
-
-## Local intelligence
+### Local intelligence
 
 - https://www.instagram.com/reel/DKcyUJVsHUV/?igsh=MTNpbmpqOGJxa2hreg==
 
-## Dr. Rosie, British Plastic Surgeon
+### Dr. Rosie, British Plastic Surgeon
 
 - https://www.instagram.com/reel/DKfgvB1tv9w/?igsh=MWY1bTUzdXFvMmg1YQ==
 
-## Educational?
+### Educational
 
 - https://www.instagram.com/reel/DKcpZy2sFwM/?igsh=dW95YXF2a3J1NDAw 
 
 
-## Difficult to watch
+### Difficult to watch
 
 - https://www.instagram.com/reel/DKZ9Or0AAvM/?igsh=N3Rhc250N2RudWp3
-
-</details> 
+ 
 
 
 
 
 <details>
    
-<summary>Our first problem set </summary>
+<summary>Our first problem set (click to expand)</summary>
 
 ### Theme 1: Medical & Survival Skills
 - [What is life like in Gaza? BBC documentary in 2024](https://www.youtube.com/watch?v=WChPpImsBx0&t=24s) 
@@ -71,7 +70,7 @@
 
 <details>
    
-<summary>Ideas explored</summary>
+<summary>Ideas previously explored (click to expand)</summary>
 
 - https://tinyurl.com/prompts4gaza
 - [Islamic for Gaza?](islamic4gaza)
@@ -81,13 +80,13 @@
 
 
 
-# Resources for facilitators
+## Resources for facilitators
 
 - [Facilitation notes](facilitation_notes.md)
 
 
 
-# Resources for post-workshop
+## Resources to revisit after the workshop
 
 <details> 
 
