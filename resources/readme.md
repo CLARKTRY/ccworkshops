@@ -21,13 +21,14 @@
 ### Latest updates
 
 - [Footage of a classroom](https://www.youtube.com/shorts/-Brmg5Sa9QY)
-- https://www.youtube.com/embed/o-h1r3wsWY8?si=trJCdc99JXRvTWwt&amp;start=8" | https://youtu.be/o-h1r3wsWY8?si=ocb_n3FZRUAW5eUi
-- On mental state:  https://www.youtube.com/watch?v=LV6Jo5V_DPU
-- Recent narrations on (dire) medical situation
+- [Eid al-Adha holiday Jun 5-9](https://www.youtube.com/embed/o-h1r3wsWY8?si=trJCdc99JXRvTWwt&amp;start=8") | https://youtu.be/o-h1r3wsWY8?si=ocb_n3FZRUAW5eUi
+- [On mental state](https://www.youtube.com/watch?v=LV6Jo5V_DPU)
+- Recent narrations on (dire) medical situation:
   - Dr. Rosie, British Plastic Surgeon
-    - https://www.instagram.com/reel/DKfgvB1tv9w/?igsh=MWY1bTUzdXFvMmg1YQ==
-    - https://www.youtube.com/watch?v=dyZlKwYanvo
-    - https://www.youtube.com/watch?v=Ewx9Qkpv86I
+    > My anaesthetist Dr Nizar was evacuated from his home in Khan Younis and had to walk 22km to pitch a tent for his wife and 5 children in an area of “safety”.
+    - Quote from interview on [June 4](https://www.instagram.com/reel/DKfgvB1tv9w/?igsh=MWY1bTUzdXFvMmg1YQ==)
+    - [June 7](https://www.youtube.com/watch?v=dyZlKwYanvo)
+    - [June 7](https://www.youtube.com/watch?v=Ewx9Qkpv86I)
   - Dr. Tanya Haj Hassan: https://www.youtube.com/watch?v=d5yFJ1CjZYE
 - Misc:
   - https://www.youtube.com/watch?v=sDwd4cSMiTA
