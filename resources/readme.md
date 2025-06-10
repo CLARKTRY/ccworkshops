@@ -5,7 +5,7 @@
 | Mode | Self-learning | Paired-learning |  Group-learning | Classroom learning | 
 | :-- | :-- | :-- | :-- | :-- | 
 | Spoken/ story-telling | | | | |
-| Simple graphic] | [charting the daily emotions](https://www.instagram.com/p/DAa9sB8yboM/?igsh=MWR2azRodzRkZGFuaA%3D%3D) |
+| Simple graphic | [charting the daily emotions](https://www.instagram.com/p/DAa9sB8yboM/?igsh=MWR2azRodzRkZGFuaA%3D%3D) |
 | [Radio](https://www.instagram.com/p/DBeDfjDoZM5/) / audio-based | | | | |
 | Short video shared on WhatsApp | | | |
 | YouTube Channels | | | |
