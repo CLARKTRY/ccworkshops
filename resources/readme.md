@@ -91,7 +91,7 @@
 
 <details>
    
-<summary>- Ideas previously explored (click to expand)</summary>
+<summary>Ideas previously explored (click to expand)</summary>
 
 - https://tinyurl.com/prompts4gaza
 - [Islamic for Gaza?](islamic4gaza)
