@@ -1,7 +1,2 @@
-![Clip 3](3.mp4)
 
-<iframe src="3.mp4" allowfullscreen></iframe>
-
-<video width="320" height="240" controls>
-  <source src="3.mp4" type="video/mp4">
-</video>
+- Materials from Prof. Asmaa on [Google drive](https://drive.google.com/drive/folders/1F0tXQzBFEAZcsiO8M9XcG975WQB6ffEa)
