@@ -18,7 +18,7 @@
 
 <br/>
 
-## Resources for cocreators
+## Resources for co-creators
 
 ### Latest updates
 
@@ -104,7 +104,7 @@
 ## Resources for facilitators
 
 - [Facilitation notes](facilitation_notes.md)
-
+- https://icebreakerideas.com/
 
 
 ## Resources to revisit after the workshop
