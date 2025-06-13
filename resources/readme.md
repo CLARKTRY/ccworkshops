@@ -1,5 +1,7 @@
 # Resources
 
+- [CCW Report from Light for the World](https://light-for-the-world.canto.global/pdfviewer/viewer/viewer.html?share=share%2Calbum%2CQ8JA1&column=document&id=s48gb998ct6tdbjte6pi42ak7o&suffix=pdf&print=1)
+
 ## Brainstorming on delivery formats 
 
 | Mode | Self-learning | Paired-learning |  Group-learning | Classroom learning | 
