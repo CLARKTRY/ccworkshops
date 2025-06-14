@@ -50,7 +50,7 @@ Please [visit](resources/readme.md).
 
 We are completely unfunded and warmly welcome any form of support. 
 
-To cheer on us, please consider following us on [Instagram](https://www.instagram.com/sail.initiatives) and [X](https://x.com/ccw4gaza). Thanks very much!
+To cheer on us, please consider following us on [Instagram](https://www.instagram.com/sail.initiatives). Thanks very much!
 
 
 
