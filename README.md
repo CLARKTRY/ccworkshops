@@ -21,7 +21,7 @@ We are adopting the 5-stage design thinking process:
 ### Surveys
 Please consider completing the surveys below even if you cannot join the workshop to give us feedback. You may skip any questions.
 
-- Survey for those who never lived in Gaza: https://tinyurl.com/join-ccw4gaza
+- Survey for those who never lived in Gaza: Consider joining as a [ideator](https://forms.gle/uH5mWEQ8CeP6aEXT6) or [faciliator](https://forms.gle/g5aRQGi5K4WbtDFm6)
 - Survey for those who is living or has lived in Gaza: https://tinyurl.com/ccw4gaza-survey 
 
 ### Workshop Agenda
