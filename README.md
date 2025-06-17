@@ -31,10 +31,10 @@ Schedule:
 | Week # | Day # | Stages |
 | :-- | :-- | :-- |
 | 0 | - | Preparation - please review: <br>1) [Code of Conduct](admin) <br>2) Pre-workshop materials: <br>- [Short version](https://docs.google.com/presentation/d/1IHmIQ8dfKtImbYx7AMhmvPYdKPOMV1CiAIPNq393_D4) <br>- [Long version](https://tinyurl.com/ccw4gaza-prep) |
-| 1 | Day 1 (SAT) | Review Code of Conduct / Empathize / Define / Ideate |
-| 1 | Day 2 (SUN) | Refine defintion / Ideate / Prototype |
-| 2 | Day 3 (SAT) | Refine/ Ideate / Prototype |
-| 2 | Day 4 (SUN) | Prototype / Test / Finalization |
+| 1 | Day 1 (SAT) | Opening / Review of prep materials / Story-telling / Problem identification + specifications |
+| 1 | Day 2 (SUN) | Recap/ Refine problem statement / Ideate  |
+| 2 | Day 3 (SAT) | Recap / Ideate / Sketch prototype / Reflections |
+| 2 | Day 4 (SUN) | Refine prototype / Presentations / Closing |
 
 In between Day 2 and Day 3, D4G members will collect feedback from Palestinians on the initial prototypes while each Team may continue proposal refinement. 
 
