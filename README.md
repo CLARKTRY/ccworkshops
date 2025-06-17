@@ -26,11 +26,11 @@ Please consider completing the surveys below even if you cannot join the worksho
 
 ### Workshop Agenda
 
-Tentative Schedule: 
+Schedule: 
 
 | Week # | Day # | Stages |
 | :-- | :-- | :-- |
-| 0 | - | Preparation - please review: <br>1) [Code of Conduct](admin) <br>2) Pre-workshop materials: https://tinyurl.com/ccw4gaza-prep |
+| 0 | - | Preparation - please review: <br>1) [Code of Conduct](admin) <br>2) Pre-workshop materials: [https://docs.google.com/presentation/d/1IHmIQ8dfKtImbYx7AMhmvPYdKPOMV1CiAIPNq393_D4/](short version) | https://tinyurl.com/ccw4gaza-prep (long version) |
 | 1 | Day 1 (SAT) | Review Code of Conduct / Empathize / Define / Ideate |
 | 1 | Day 2 (SUN) | Refine defintion / Ideate / Prototype |
 | 2 | Day 3 (SAT) | Refine/ Ideate / Prototype |
