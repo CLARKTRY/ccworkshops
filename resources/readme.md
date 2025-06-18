@@ -144,7 +144,7 @@
 
 - [Right to education marathon every.org](https://www.every.org/taawon/f/right-to-education-marathon)
 - Faculty from Birzeit University volunteers to teach and co-supervise graduation projects and graduate theses: [link to sign up](https://www.surveymonkey.com/r/BZU-S-GAZA)
-
+- [List of emails from France and EU kindly compiled by Ms. Anu](https://docs.google.com/document/d/1zHVAk51BZigftafv1mdYyUKuy1G5h9loVRepYYcf-l4/mobilebasic?fbclid=PAQ0xDSwK_HNVleHRuA2FlbQIxMAABp-lqa9IbM21wEJydZ_cTboC9yhTuZSFzOSqkRylBlCQlP_7S9W7EmSZQJgnp_aem_jJ_hNpASUY2xiXcOIZZoWw)
 </details> 
 
 
